@@ -3,6 +3,8 @@
 ## Built with Python - Constraint Satisfaction Problem
 Program running: https://youtu.be/2QNXVw0nBwM
 
+AI to generate crossword puzzles
+
 ## How to run (example)
 
 ```
